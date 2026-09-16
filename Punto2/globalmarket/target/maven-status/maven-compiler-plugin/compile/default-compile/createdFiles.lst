@@ -1,0 +1,9 @@
+orden\OrdenCompra.class
+estrategias\EnvioCasillero.class
+estrategias\EnvioEcologico.class
+globalmarket\Main.class
+modelo\Paquete.class
+estrategias\EnvioEconomico.class
+estrategias\EstrategiaEnvio.class
+estrategias\EnvioExpress.class
+modelo\ResultadoEnvio.class
